@@ -19,7 +19,9 @@ generating the code and analysis.
 
 In the Data folder, you can find the generated data.
 
-Finally, in the Figures folder, you can find the generated figures.
+In the Figures folder, you can find the generated figures.
+
+Finally, there is a Results folder containing the results.
 
 ## How to contribute
 

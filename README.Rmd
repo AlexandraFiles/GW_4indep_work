@@ -24,7 +24,9 @@ There are three folders: Code, Data, and Figures. In the Code folder, you can fi
 
 In the Data folder, you can find the generated data.
 
-Finally, in the Figures folder, you can find the generated figures.
+In the Figures folder, you can find the generated figures.
+
+Finally, there is a Results folder containing the results.
 
 ## How to contribute
 
